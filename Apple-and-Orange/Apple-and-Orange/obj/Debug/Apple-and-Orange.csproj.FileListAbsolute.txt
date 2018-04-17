@@ -1,0 +1,7 @@
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\bin\Debug\Apple-and-Orange.exe.config
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\bin\Debug\Apple-and-Orange.exe
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\bin\Debug\Apple-and-Orange.pdb
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\obj\Debug\Apple-and-Orange.csprojResolveAssemblyReference.cache
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\obj\Debug\Apple-and-Orange.csproj.CoreCompileInputs.cache
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\obj\Debug\Apple-and-Orange.exe
+C:\Users\Orkhan Farajov\Desktop\Apple-and-Orange\Apple-and-Orange\obj\Debug\Apple-and-Orange.pdb
