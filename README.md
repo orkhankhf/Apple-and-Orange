@@ -1,3 +1,6 @@
+**Apple and Orange**
+Problem: https://www.hackerrank.com/challenges/apple-and-orange/problem
+
 Sam's house has an apple tree and an orange tree that yield an abundance of fruit. Sam’s two children, Larry and Rob, decide to play a game in which they each climb a tree and throw fruit at their (Sam’s) house. Each fruit that lands on the house scores one point for the one who threw it. Larry climbs the tree on the left (the apple), and Rob climbs the one on the right (the orange).
 
 We’ll use the following diagram to describe the challenge:
